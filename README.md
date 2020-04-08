@@ -16,14 +16,14 @@ Practice querying data through the MongoDB CLI.
 
 You are required to turn in your submission by making a pull request on the
 original repository. Write or copy/paste your answers to the assigned prompts in
-[`lib/challenge.md`](lib/challenge.md).
+[`challenge.md`](challenge.md).
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
 the next morning by 9:00am.
 
 ## Requirements
 
-Work through the prompts in [`lib/challenge.md`](lib/challenge.md). Write or
+Work through the prompts in [`challenge.md`](challenge.md). Write or
 copy/paste your answers to the prompts below the prompts. For example:
 
 ```md
