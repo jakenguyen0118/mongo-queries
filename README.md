@@ -14,8 +14,7 @@ Practice querying data through the MongoDB CLI.
 1. Change into the new directory.
 1. Fulfill the listed requirements.
 
-You are required to turn in your submission by making a pull request on the
-original repository. Write or copy/paste your answers to the assigned prompts in
+Write or copy/paste your answers to the assigned prompts in
 [`challenge.md`](challenge.md).
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
